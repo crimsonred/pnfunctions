@@ -27,18 +27,18 @@
 		{
 			"title":"test code",
 			"desc":"test code desc",
-			"code":{
+			"code":"{
 				"input": "code 1",
 				"output": "code 2"
-			}
+			}"
 		},
 		{
 			"title":"test code22",
 			"desc":"test code desc2",
-			"code":{
+			"code":"{
 				"input": "code 21",
 				"output": "code 22"
-			}
+			}"
 		}
 	]
 }
