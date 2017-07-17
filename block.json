@@ -20,8 +20,8 @@
 	"blocks-presentation": "",
 	"update-date": 123124235,
 	"show-blocks-presentation": true,
-	"walkthorugh": "walkthorugh",
-	"walkthorugh-title": "walkthorugh t",
+	"walkthrough": "walkthorugh",
+	"walkthrough-title": "walkthorugh t",
 	"input-output": [{
 			"title": "test code",
 			"desc": "test code desc",
